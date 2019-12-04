@@ -93,3 +93,5 @@ java -jar target/carts.jar
 # Push
 
 `GROUP=weaveworksdemos COMMIT=test ./scripts/push.sh`
+
+....
